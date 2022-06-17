@@ -18,3 +18,4 @@ info = ("IPAddress: " & IPConfig.IPAddress(i) & vbCrLf & "Computer Name: " & str
             End If
     Next
 	next
+End
